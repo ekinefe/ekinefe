@@ -20,8 +20,8 @@ I'm looking for a junior or part-time role in Warsaw (hybrid or remote is fine t
 | [CW_keyer-GNR](https://github.com/ekinefe/CW_keyer-GNR) | Morse code keyer I designed, soldered and programmed | KiCad, Arduino, C++, Qt 6 |
 | [CW_trainer-GNR](https://github.com/ekinefe/CW_trainer-GNR) | Morse trainer with Koch method, echo and transmit modes | Qt 6, C++ |
 | [GNR_Scanner](https://github.com/ekinefe/GNR_Scanner) | Terminal UI for Linux security scans (ClamAV, RKHunter) with live system stats | Python, Textual |
-| [Transcripter](https://github.com/ekinefe/Transcripter) | Offline app that turns videos into timestamped .srt subtitles, with optional translation and a multi-video queue | Python, faster-whisper, Ollama, JavaScript |
-| [voucher_to_TOKBYS](https://github.com/ekinefe/voucher_to_TOKBYS) | Replaces an Excel/VBA macro: builds accounting vouchers from two bank export files, with a local browser UI and a one-click Windows package | Python, JavaScript, HTML/CSS |
+| [Transcripter (Private)](https://github.com/ekinefe/Transcripter) | Offline app that turns videos into timestamped .srt subtitles, with optional translation and a multi-video queue | Python, faster-whisper, Ollama, JavaScript |
+| [voucher_to_TOKBYS (Private)](https://github.com/ekinefe/voucher_to_TOKBYS) | Replaces an Excel/VBA macro: builds accounting vouchers from two bank export files, with a local browser UI and a one-click Windows package | Python, JavaScript, HTML/CSS |
 
 ## Tools I use
 
